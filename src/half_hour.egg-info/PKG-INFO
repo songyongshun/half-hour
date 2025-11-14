@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: half-hour
-Version: 0.1.0
+Version: 0.1.1
 Summary: 简易48个半小时记录法
 Author-email: Yongshun Song <ys_song@foxmail.com>
 Maintainer-email: Yongshun Song <ys_song@foxmail.com>
@@ -8,6 +8,7 @@ License-Expression: MIT
 Keywords: half,hour,record,self-discipline
 Description-Content-Type: text/markdown
 License-File: LICENSE
+Requires-Dist: PyYAML
 Dynamic: license-file
 
 # Half-Hour (`hh`)
